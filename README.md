@@ -64,17 +64,17 @@
 
   <!-- General Stats & Top Languages -->
   <a href="https://github.com/Srijan779">
-    <img src="https://github-readme-stats.vercel.app/api?username=Srijan779&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8" height="175" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Srijan779&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=1800" height="170" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Srijan779">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan779&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8" height="175" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Srijan779&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&border_radius=8&cache_seconds=1800" height="170" alt="Top Languages" />
   </a>
 
   <br/><br/>
 
-  <!-- Contribution Streak -->
+  <!-- Contribution Streak (Updated to working demolab domain) -->
   <a href="https://github.com/Srijan779">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Srijan779&theme=tokyonight&hide_border=true&border_radius=8" width="85%" alt="Streak Stats" />
+    <img src="https://streak-stats.demolab.com/?user=Srijan779&theme=tokyonight&hide_border=true&border_radius=8" width="85%" alt="Streak Stats" />
   </a>
 
 </div>
@@ -105,16 +105,18 @@
 
 ### ⭐ Featured Projects
 
-<!-- Replace REPO_NAME with your exact repository names -->
+<!-- 
+NOTE: If using dynamic card pins, the repo name MUST match an exact, public repo on your account.
+Below is an indestructible Showcase Table that will NEVER break even if external APIs go down:
+-->
 
 <div align="center">
 
-  <a href="https://github.com/Srijan779">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srijan779&repo=Flappy-Phoenix&theme=tokyonight&hide_border=true&border_radius=8" />
-  </a>
-  <a href="https://github.com/Srijan779">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srijan779&repo=Maths-Maze&theme=tokyonight&hide_border=true&border_radius=8" />
-  </a>
+| Project | Tech Stack | Highlights | Links |
+| :--- | :--- | :--- | :---: |
+| **Flappy Phoenix** | `Unity` `C#` `2D Physics` | Endless runner arcade game built for college cultural fest | [Repo](https://github.com/Srijan779) |
+| **Maths Maze** | `JavaScript` `HTML5` `CSS3` | Interactive math puzzle game featured at technical fest | [Repo](https://github.com/Srijan779) |
+| **Developer Portfolio** | `HTML5` `CSS3` `JavaScript` | Interactive terminal-style personal portfolio | [Repo](https://github.com/Srijan779) |
 
 </div>
 
