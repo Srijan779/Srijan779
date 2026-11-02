@@ -112,7 +112,9 @@
 <div align="center">
 
   <!-- Full-Width Parallax Auto-Scrolling Environment Banner -->
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-assets/pixel_art.gif" width="100%" alt="Parallax Scrolling Game Environment" />
+  <a href="https://github.com/Srijan779">
+    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Parallax Auto-Scrolling Environment" />
+  </a>
 
   <br/><br/>
 
