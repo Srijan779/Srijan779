@@ -5,7 +5,7 @@
 
   <!-- Animated Typing Subtitle -->
   <a href="https://github.com/Srijan779">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=620&lines=Game+Developer+%26+C%23+%2F+Unity+Creator;Frontend+%26+Interactive+Web+Engineer;Exploring+Applied+Mathematics+%26+Computing;Building+Engaging+Indie+Games+%26+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&lines=Game+Developer+%26+C%23+%2F+Unity+Creator;Frontend+%26+Interactive+Web+Engineer;Exploring+Agentic+AI+%26+Autonomous+Systems;Building+Engaging+Indie+Games+%26+Apps" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -14,36 +14,51 @@
   <p>
     <img src="https://komarev.com/ghpvc/?username=Srijan779&label=PROFILE+VIEWS&style=flat-square&color=3b82f6" alt="Profile Views" />
     <img src="https://img.shields.io/github/followers/Srijan779?label=Followers&style=flat-square&color=10b981" alt="Followers" />
-    <img src="https://img.shields.io/badge/Focus-Unity%20%7C%20React%20%7C%20C%23-8b5cf6?style=flat-square" alt="Current Focus" />
+    <img src="https://img.shields.io/badge/Focus-Unity%20%7C%20React%20%7C%20Agentic%20AI-8b5cf6?style=flat-square" alt="Current Focus" />
     <img src="https://img.shields.io/badge/Status-Building%20%26%20Shipping-f59e0b?style=flat-square" alt="Status" />
   </p>
 
-  <!-- Social Connect Buttons -->
+  <!-- Working Social Connect Buttons -->
   <p>
     <a href="mailto:srijansourav64@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://linkedin.com/in/srijan-sourav" target="_blank">
+    <a href="https://www.linkedin.com/in/srijan-sourav-2b474a392" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://instagram.com/srijan_001" target="_blank">
+    <a href="https://www.instagram.com/srijan_001" target="_blank">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
 
-  <!-- Glowing Rainbow Animated Divider -->
+  <!-- Glowing Animated Divider -->
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
 
 ### 🚀 About Me
 
-- 🎮 **Game Architecture:** Designing custom gameplay loops, procedural mechanics, and 2D/3D physics controllers in **Unity (C#)**.
-- 💻 **Frontend Engineering:** Crafting modern, responsive web experiences with **React**, **Tailwind CSS**, and modern JavaScript.
-- 📐 **Foundations:** Deep background in **Mathematics & Computing**, algorithmic problem solving, and graphics pipelines.
-- ⚡ **Current Focus:** Real-time simulations, shader programming, and agentic software tooling.
+<table>
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🎮 <b>Game Architecture:</b> Crafting custom gameplay loops, physics controllers, and indie mechanics with <b>Unity (C#)</b>.</li>
+        <li>💻 <b>Frontend Engineering:</b> Constructing interactive modern web experiences with <b>React</b>, <b>Tailwind CSS</b>, and modern JavaScript.</li>
+        <li>🤖 <b>Exploring Agentic AI:</b> Researching autonomous agentic frameworks, multi-agent orchestration, vector memory, and RAG architectures.</li>
+        <li>⚡ <b>Current Focus:</b> Designing intelligent game systems, shader effects, and generative AI pipelines.</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <!-- Coding Dev Animation -->
+      <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="280" alt="Coding Animation" />
+    </td>
+  </tr>
+</table>
 
----
+<div align="center">
+  <!-- Glowing Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
 
 ### 🛠️ Languages & Technologies
 
@@ -54,7 +69,24 @@
 | **Languages** | <img src="https://skillicons.dev/icons?i=cs,cpp,c,python,js,html,css" height="36" /> |
 | **Game & 3D Dev** | <img src="https://skillicons.dev/icons?i=unity,blender" height="36" /> |
 | **Frontend & Web** | <img src="https://skillicons.dev/icons?i=react,tailwind,vite" height="36" /> |
-| **Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" height="36" /> |
+| **AI & Developer Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,arduino" height="36" /> |
+
+</div>
+
+<div align="center">
+  <!-- Glowing Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4380-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+### 🐍 Contribution Activity Graph
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Srijan779/Srijan779/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Srijan779/Srijan779/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/Srijan779/Srijan779/output/github-contribution-grid-snake-dark.svg" width="95%" />
+  </picture>
 
 </div>
 
@@ -75,13 +107,18 @@
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
   <!-- Interactive Retro Game Dev Visual -->
   <a href="https://github.com/Srijan779">
-    <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/GameDev.gif" width="440" alt="Game Dev Animation" />
+    <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/GameDev.gif" width="420" alt="Game Dev Animation" />
+  </a>
+
+  <!-- Cyber Space Animated Cat / Hacker Visual -->
+  <a href="https://github.com/Srijan779">
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cyber Workspace Animation" />
   </a>
 
   <br/><br/>
