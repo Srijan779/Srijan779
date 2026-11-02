@@ -111,15 +111,8 @@
 
 <div align="center">
 
-  <!-- Interactive Retro Game Dev Visual -->
-  <a href="https://github.com/Srijan779">
-    <img src="https://raw.githubusercontent.com/ABSphinx/ABSphinx/main/gifs/GameDev.gif" width="420" alt="Game Dev Animation" />
-  </a>
-
-  <!-- Cyber Space Animated Cat / Hacker Visual -->
-  <a href="https://github.com/Srijan779">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Cyber Workspace Animation" />
-  </a>
+  <!-- Full-Width Parallax Auto-Scrolling Environment Banner -->
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/blog-assets/pixel_art.gif" width="100%" alt="Parallax Scrolling Game Environment" />
 
   <br/><br/>
 
