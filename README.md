@@ -111,9 +111,9 @@
 
 <div align="center">
 
-  <!-- Full-Width Parallax Auto-Scrolling Environment Banner -->
-  <a href="https://github.com/Srijan779">
-    <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%" alt="Parallax Auto-Scrolling Environment" />
+  <!-- Gifer Parallax Landscape Animation -->
+  <a href="https://gifer.com/5SM" target="_blank">
+    <img src="https://i.gifer.com/5SM.gif" width="100%" alt="Parallax Landscape Animation" />
   </a>
 
   <br/><br/>
